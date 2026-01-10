@@ -1,0 +1,6 @@
+venv
+.env
+secrets.txt
+binancebot_pkg
+binancebot.egg-info
+__pycache__
